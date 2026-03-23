@@ -1,11 +1,11 @@
 # Unemployment vs Inflation - Brazil Analysis (2012-2025)
 Analysis of the relationship between unemployment rate and inflation (IPCA) in Brazil, investigating the validity of the Phillips Curve in the recent Brazilian economic context.
 
-## Objective
+# Objective
 To investigate whether there is a correlation between unemployment and inflation in Brazil from 2012 to 2025, empirically testing the Phillips Curve - an economic theory that suggests an inverse relationship between these variables.
 Initial hypothesis: The higher the unemployment, the lower the inflation (negative correlation).
 
-## Data Source
+# Data Source
 
 ### 1. Unemployment Rate
 
@@ -25,7 +25,7 @@ Initial hypothesis: The higher the unemployment, the lower the inflation (negati
 - **Period**: January 2012 to December 2025
 - **API**: [BCB - Time Series](https://api.bcb.gov.br/)
 
-## Methodology
+# Methodology
 
 ### 1. Data Collection
 
@@ -84,7 +84,7 @@ Initial hypothesis: The higher the unemployment, the lower the inflation (negati
 - Points scattered without clear pattern
 - Unemployment DOES NOT predict inflation (and vice versa)
 
-## Key Findings
+# Key Findings
 
 ### 1 - Phillips Curve **DOES NOT** hold in recent Brazil
 The analysis revealed a correlation of -0.03, indicating the absence of a linear relationship between unemployment and inflation in the analyzed period.
@@ -164,7 +164,6 @@ jupyter notebook analysis.ipynb
 
 ## Author
 Henrique Rosso Pieper
-
-- Email: henriquepieper@gmail.com
+[GitHub](https://github.com/henrique-pieper) · [Email](mailto:henriquepieper@gmail.com)
 
 **If this project was useful to you, consider giving it a star!**
